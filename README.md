@@ -1,5 +1,20 @@
 # Pixel Chix Desktop Buddy - Decompiled Assets
 
+
+
+
+
+
+
+
+
+![PIXEL2](https://github.com/user-attachments/assets/ae15c6c6-2f4b-45c9-8fb9-9151194ca35b)
+
+
+
+
+
+
 This repository contains the decompiled source files from a 2006 Pixel Chix desktop buddy application. These files contain the complete source structure needed to recreate or (hopefully) port Pixel Chix to modern platforms.
 
 ## Structure
