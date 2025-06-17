@@ -1,6 +1,6 @@
 # Pixel Chix Desktop Buddy - Decompiled Assets
 
-This repository contains the decompiled source files from a 2006 Pixel Chix desktop buddy application. These files represent the complete source structure needed to recreate or port Pixel Chix to modern platforms.
+This repository contains the decompiled source files from a 2006 Pixel Chix desktop buddy application. These files contain the complete source structure needed to recreate or (hopefully) port Pixel Chix to modern platforms.
 
 ## Structure
 
